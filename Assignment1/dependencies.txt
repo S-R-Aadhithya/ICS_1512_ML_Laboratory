@@ -1,0 +1,8 @@
+PIL
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+sklearn
+struct
